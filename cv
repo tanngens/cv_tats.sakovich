@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Портфолио - Татьяна Сакович</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 50px;
+        }
+        .container {
+            max-width: 600px;
+            margin: auto;
+            padding: 20px;
+            border: 2px solid #000;
+            border-radius: 10px;
+            box-shadow: 5px 5px 15px rgba(0, 0, 0, 0.2);
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            font-size: 18px;
+        }
+        a {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 18px;
+            color: #fff;
+            background-color: #007bff;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        a:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Татьяна Сакович</h1>
+        <p>Руководитель отдела контроля качества и клиентского сервиса</p>
+        <p><strong>Связаться:</strong></p>
+        <p>📩 E-mail: <a href="mailto:tatysativa@gmail.com">tatysativa@gmail.com</a></p>
+        <p>💬 Telegram: <a href="https://t.me/tanngen_s">@tanngen_s</a></p>
+        <a href="https://www.notion.so/qualitycontroldep/CV-1bc354b3096f80e6a754ec41eb28015f" target="_blank">📄 Смотреть резюме</a>
+    </div>
+</body>
+</html>
